@@ -25,6 +25,7 @@ An experiment in writing the [k-means clustering](https://en.wikipedia.org/wiki/
 <!-- - [ ] [Lua](https://github.com/km-nw/kmeans-lua) -->
 <!-- - [ ] [PHP](https://github.com/km-nw/kmeans-php) -->
 <!-- -[ ] [Kotlin](https://github.com/km-nw/kmeans-kotlin) -->
+<!-- -[ ] [P5.js](https://github.com/km-nw/kmeans-p5) -->
 
 
 ## The Algorithm
